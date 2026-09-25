@@ -1,16 +1,25 @@
-## Hi there 👋
+# Lukwago Anold 👋
 
-<!--
-**lukwagoanold/lukwagoanold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am Lukwago Anold, a community-focused young leader from Mukono, Uganda.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about youth empowerment, community development, savings groups, leadership, and creating opportunities that improve people's lives.
+
+### 🌍 My Interests
+- Youth empowerment
+- Community development
+- VSLA and savings groups
+- Leadership and social development
+- Entrepreneurship
+- Digital skills
+
+### 🤝 My Work
+I enjoy working with young people and communities to promote financial inclusion, teamwork, self-reliance, and positive social change.
+
+### 📍 Based in
+Mukono, Uganda 🇺🇬
+
+### 📱 Connect with me
+TikTok: Xavi Arnolds
+Facebook: Lukwago Anold
