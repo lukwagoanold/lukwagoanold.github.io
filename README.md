@@ -1,4 +1,5 @@
 # Lukwago Anold 👋
+![Lukwago Anold](lukwago-anold.png)
 
 ## About Me
 
